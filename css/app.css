@@ -5760,20 +5760,24 @@ body {
   color: white; }
 
 .span10 {
-  float: left;
-  padding-left: 100px; }
+  float: right;
+  padding-right: 40px; }
 
 .bar1 {
   border-right: solid 4px white;
-  margin-right: 97px; }
+  padding-left: 20px; }
+
+.span20 {
+  float: right;
+  padding-right: 20px; }
 
 .bar2 {
   border-right: solid 4px white;
-  margin-left: 97px; }
+  padding-left: 20px; }
 
 .span30 {
   float: right;
-  padding-right: 150px; }
+  padding-right: 20px; }
 
 .navbar-header {
   border-top: 4px solid green; }
@@ -5800,6 +5804,9 @@ body {
   padding-top: 20px;
   border-bottom: solid 4px #7CDA4E; }
 
+.about {
+  font-weight: bold; }
+
 .foundations {
   width: 100%;
   background-image: url("../images/images.jpeg");
@@ -5808,7 +5815,7 @@ body {
   border-bottom: solid 4px #7CDA4E; }
 
 .foundations2 {
-  padding: 10px; }
+  padding: 15px; }
 
 .navbar li a {
   color: #fff;
@@ -5854,7 +5861,7 @@ body {
   width: 50%; }
 
 .main-image h3 span {
-  color: #AECC8D; }
+  color: #91D95C; }
 
 .about-Kelley {
   margin-top: 90px; }
@@ -6033,5 +6040,8 @@ body {
 .linked {
   height: 50px;
   width: auto; }
+
+.map {
+  color: white; }
 
 /*# sourceMappingURL=app.css.map */
