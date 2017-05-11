@@ -161,7 +161,7 @@ border-bottom: solid 4px #7CDA4E;
   color: white;
 }
 .manufacturing{
-  margin-top: 90px;
+  margin-top: 10px;
   width: 100%;
   background-image:  url("../images/images.jpeg");
   background-size: cover;
@@ -172,7 +172,7 @@ border-bottom: solid 4px #7CDA4E;
 
 }
 .methodology{
-  margin-top: 220px;
+  margin-top: 10px;
   width: 100%;
   background: linear-gradient(#353C4E, #3A597B);
   border-top: solid 4px #7CDA4E;
@@ -213,25 +213,26 @@ color: white;
 margin-top: 20px;
 }
 .stone{
-  background-image: url("../images/stone.png");
-  height: 600px;
-  width: auto;
+  background-image: url("../images/slab.jpg");
+
+  background-size: cover;
   background-repeat: no-repeat;
 }
 .kelley-commandments{
   margin-left: 35px;
   list-style: none;
   font-family: 'Cinzel', serif;
-  font-size: 35px;
+  font-size: 55px;
 }
 .kelley-commandments2{
   list-style: none;
   font-family: 'Cinzel', serif;
-  font-size: 18px;
+  font-size: 25px;
+  line-height: 1.75;
 }
 .bible{
 
-  color: black;
+  color: red;
 }
 .header4{
   text-align: center;
